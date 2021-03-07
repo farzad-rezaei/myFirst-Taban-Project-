@@ -1,6 +1,6 @@
 # myFirst-Taban-Project
 
-# this is a very  simple script from Farzad to say hello to world with js.
+# this is a very  simple app to recocnize prime numbers in js.
 
 
 
@@ -15,11 +15,14 @@
 
 ## About how its works
 
-just open file with browser .
+just open file with browser input a number and ckick the buttom.
 
 ```mermaid
 graph LR;
-  farzad-->index.html --> client;
+number -->  func{isprime function}
+func --yes--> prime
+func--no --> notPrime
+
   
 ;
 ```
