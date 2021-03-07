@@ -10,9 +10,6 @@
 
 
 
-
-
-
 ## About how its works
 
 just open file with browser input a number and ckick the buttom.
@@ -33,4 +30,5 @@ func--no --> notPrime
 
 ## Team 
  - [x] @f.rezaee1991
+
 
